@@ -1,6 +1,6 @@
 Olá, seja bem-vindo!
 
-Me chamo Luna, tenho 24 anos e estou cursando o segundo semestre de Análise e Desenvolvimento de Sistemas na FIAP!
+Me chamo Luna, tenho 24 anos e estou cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas na FIAP!
 
 Aqui você encontrará repositórios com o que aprendi em aulas e projetos a parte <3
 
